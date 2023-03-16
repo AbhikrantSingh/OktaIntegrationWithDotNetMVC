@@ -1,0 +1,7 @@
+C:\Users\Amitesh\source\repos\OktaDomain\OktaDomain\obj\Debug\net5.0\OktaDomain.csproj.AssemblyReference.cache
+C:\Users\Amitesh\source\repos\OktaDomain\OktaDomain\obj\Debug\net5.0\OktaDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amitesh\source\repos\OktaDomain\OktaDomain\obj\Debug\net5.0\OktaDomain.AssemblyInfoInputs.cache
+C:\Users\Amitesh\source\repos\OktaDomain\OktaDomain\obj\Debug\net5.0\OktaDomain.AssemblyInfo.cs
+C:\Users\Amitesh\source\repos\OktaDomain\OktaDomain\obj\Debug\net5.0\OktaDomain.csproj.CoreCompileInputs.cache
+C:\Users\Amitesh\source\repos\OktaDomain\OktaDomain\obj\Debug\net5.0\OktaDomain.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amitesh\source\repos\OktaDomain\OktaDomain\obj\Debug\net5.0\OktaDomain.MvcApplicationPartsAssemblyInfo.cache
